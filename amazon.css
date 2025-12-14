@@ -1,0 +1,235 @@
+ * {
+     padding: 0;
+     margin: 0;
+     box-sizing: 0;
+ }
+
+ .navbar {
+     display: flex;
+     align-items: center;
+     gap: 10px;
+     background-color: black;
+     padding: 1px;
+     color: white;
+     font-size: 25px;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+
+ #logo {
+     color: yellow;
+ }
+
+ #searchbar {
+     width: 800px;
+     padding: 10px;
+     border-radius: 9999px
+ }
+
+ nav {
+     background-color: #25303F;
+ }
+
+ .snav {
+     background-color: #25303F;
+     display: flex;
+     align-items: center;
+     gap: 50px;
+     padding: 1px;
+     color: white;
+     font-size: 15px;
+     font-family: Arial, Helvetica, sans-serif;
+
+ }
+
+ a:hover {
+     color: darkgray;
+
+
+ }
+
+ .bg {
+     background-image: url(assets/amazon.jpeg);
+     background-size: cover;
+     background-position: center;
+     min-height: 1000px;
+ }
+
+ .bg1 {
+     background-image: url(assets/amazo.png);
+     background-size: cover;
+     background-position: center;
+     min-height: 1000px;
+ }
+
+ .primev {
+     position: absolute;
+
+     left: 20px;
+     top: 450px;
+     border: 20px solid white;
+     display: inline-block;
+     background-color: white;
+ }
+
+ .deals {
+     position: absolute;
+     left: 480px;
+     top: 450px;
+     border: 20px solid white;
+     display: inline-block;
+     background-color: white;
+ }
+
+ .electronics {
+     position: absolute;
+     height: 364.5px;
+     left: 920px;
+     top: 450px;
+     border: 20px solid white;
+     display: inline-block;
+     background-color: white;
+ }
+
+ .ac {
+     text-align: center;
+ }
+
+ .gaming {
+     position: absolute;
+
+     left: 20px;
+     top: 900px;
+     border: 20px solid white;
+     display: inline-block;
+     background-color: white;
+ }
+
+ .levelup {
+     gap: 7px;
+     position: absolute;
+     left: 480px;
+     top: 900px;
+     border: 20px solid white;
+     display: inline-block;
+     background-color: white;
+ }
+
+ .gift {
+     position: absolute;
+     height: 342.5px;
+     left: 920px;
+     top: 900px;
+     border: 20px solid white;
+     display: inline-block;
+     background-color: white;
+ }
+
+ .ac {
+     text-align: center;
+ }
+
+ .wireless {
+     position: absolute;
+     height: 364.5px;
+     left: 20px;
+     top: 1350px;
+     border: 20px solid white;
+     display: inline-block;
+     background-color: white;
+
+ }
+
+ .newgift {
+     position: absolute;
+     height: 364.5px;
+     left: 480px;
+     top: 1350px;
+     border: 20px solid white;
+     display: inline-block;
+     background-color: white;
+
+ }
+
+ .Kids {
+     position: absolute;
+     height: 364.5px;
+     left: 920px;
+     top: 1350px;
+     border: 20px solid white;
+     display: inline-block;
+     background-color: white;
+
+ }
+
+ #name {
+     background-color: white;
+     display: flex;
+     align-items: center;
+     gap: 120px;
+     padding: 1px;
+     color: black;
+     font-size: 15px;
+ }
+
+ #name1 {
+     background-color: white;
+     display: flex;
+     align-items: center;
+     gap: 120px;
+     padding: 1px;
+     color: black;
+     font-size: 15px;
+ }
+
+ #des {
+     color: blue;
+ }
+
+ .foot {
+     background-color: lightgrey;
+ }
+
+ .end {
+     background-color: #25303F;
+ }
+
+ .Footer {
+     display: flex;
+     justify-content: space-evenly;
+     background-color: #25303F;
+     color: #25303F;
+     list-style-type: none;
+     font-size: large;
+ }
+
+ .F1 {
+     list-style-type: none;
+     color: white;
+     margin-top: 100px;
+     margin-bottom: 100px;
+     font-size: large;
+ }
+
+ .F2 {
+     list-style-type: none;
+     color: white;
+     margin-top: 100px;
+     margin-bottom: 100px;
+     font-size: large;
+ }
+
+ .F3 {
+     list-style-type: none;
+     color: white;
+     margin-top: 100px;
+     margin-bottom: 100px;
+     font-size: large;
+ }
+
+ .F4 {
+     list-style-type: none;
+     color: white;
+     margin-top: 100px;
+     margin-bottom: 100px;
+     font-size: large;
+ }
